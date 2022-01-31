@@ -1,1 +1,1 @@
-# Aplica-o-Quiz-Interativo-JS
+# Etapa 07, aplicação do quiz interativo
